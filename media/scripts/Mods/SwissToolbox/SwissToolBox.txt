@@ -1,0 +1,22 @@
+module SwissToolbox {
+
+    imports {
+	   Base
+    }
+    
+    item SwissToolbox {
+        Weight	=  	1,
+        Type	=	Normal,
+        DisplayName	= SwissToolbox,
+        Icon	=	SwissToolbox,
+    }
+	
+    recipe Craft a SwissToolbox {
+    	Saw,
+    	Screwdriver,
+    	Hammer,
+        
+        Result:SwissToolbox,
+        Time:100,
+    }
+}
