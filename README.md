@@ -7,6 +7,7 @@ Mod for project Zomboid that combine a hammer, a saw and a screwdriver in one li
 Feature
 ======
 - Combination possible
+- Custom texture
 
 TODO
 ====
