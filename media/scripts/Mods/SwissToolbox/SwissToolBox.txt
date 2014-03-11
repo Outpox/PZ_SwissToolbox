@@ -5,18 +5,27 @@ module SwissToolbox {
     }
     
     item SwissToolbox {
+        CanBarricade    =   TRUE,
         Weight	=  	1,
         Type	=	Normal,
         DisplayName	= SwissToolbox,
         Icon	=	SwissToolbox,
     }
-	
+
     recipe Craft a SwissToolbox {
     	Saw,
     	Screwdriver,
     	Hammer,
         
         Result:SwissToolbox,
-        Time:100,
+        Time:500,
+    }
+
+    /* Can't be dismantled at the moment, will be done in lua */
+    recipe Dismantle SwissToolbox {
+        SwissToolbox,
+
+        Result:SwissToolbox,
+        Time:250,
     }
 }
