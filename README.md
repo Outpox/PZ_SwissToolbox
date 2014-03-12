@@ -20,15 +20,15 @@ TODO
 Changelog
 =========
 - Version 0.3 (public)
--- You can now dismantle the STB and get all the tool back
+..* You can now dismantle the STB and get all the tool back
 
 - Version 0.2 (private)
--- Version verification and some tests
--- Icon texture created
+..* Version verification and some tests
+..* Icon texture created
 
 
 - Version 0.1 (private)
--- Initial release
+..* Initial release
 
 
 
