@@ -18,14 +18,15 @@ module SwissToolbox {
     	Hammer,
         
         Result:SwissToolbox,
-        Time:500,
+        Time:300,
     }
 
     /* Can't be dismantled at the moment, will be done in lua */
     recipe Dismantle SwissToolbox {
+
         SwissToolbox,
 
-        Result:SwissToolbox,
-        Time:250,
+        Result:Hammer,
+        Time:150,
     }
 }
