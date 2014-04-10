@@ -5,7 +5,7 @@ Mod for project Zomboid "Build 23" (!) that combine a hammer, a saw and a screwd
 
 Version
 =======
-0.3
+0.4
 
 Features
 ========
@@ -19,7 +19,10 @@ TODO
 
 Changelog
 =========
-- Version 0.3 (public)
+- Version 0.4
+  * New icon made by Doublebrain
+  
+- Version 0.3
   * You can now dismantle the STB and get all the tool back
 
 - Version 0.2 (private)
